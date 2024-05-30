@@ -1,0 +1,73 @@
+UserID: 1535200018 | Time: 2024-05-29 08:47:58.444801 | Command: /bgmi | Target: 20.204.39.127 | Port: 19827 | Time: 240
+Username: @ANONYMOUSS_OP
+Target: 20.204.39.127
+Port: 19827
+Time: 240
+
+UserID: 1535200018 | Time: 2024-05-29 12:08:51.249130 | Command: /bgmi | Target: 84.17.40.31 | Port: 53 | Time: 240
+Username: @ANONYMOUSS_OP
+Target: 84.17.40.31
+Port: 53
+Time: 240
+
+UserID: 1535200018 | Time: 2024-05-29 12:12:34.891589 | Command: /bgmi | Target: 80.79.4.32 | Port: 53 | Time: 240
+Username: @ANONYMOUSS_OP
+Target: 80.79.4.32
+Port: 53
+Time: 240
+
+UserID: 1535200018 | Time: 2024-05-29 12:13:16.277781 | Command: /bgmi | Target: 80.79.4.32 | Port: 53 | Time: 240
+Username: @ANONYMOUSS_OP
+Target: 80.79.4.32
+Port: 53
+Time: 240
+
+UserID: 6363477372 | Time: 2024-05-29 12:49:04.842819 | Command: /bgmi | Target: 20.204.181.236 | Port: 20442 | Time: 240
+Username: @TG_SRIMAN
+Target: 20.204.181.236
+Port: 20442
+Time: 240
+
+UserID: 1535200018 | Time: 2024-05-29 16:03:47.099063 | Command: /bgmi | Target: 82828 | Port: 8383 | Time: 38
+Username: @ANONYMOUSS_OP
+Target: 82828
+Port: 8383
+Time: 38
+
+UserID: 1535200018 | Time: 2024-05-29 17:19:31.551809 | Command: /bgmi | Target: 80.79.4.32 | Port: 53 | Time: 240
+Username: @ANONYMOUSS_OP
+Target: 80.79.4.32
+Port: 53
+Time: 240
+
+UserID: 1535200018 | Time: 2024-05-30 01:28:02.856299 | Command: /bgmi | Target: 80.79.4.32 | Port: 53 | Time: 240
+Username: @ANONYMOUSS_OP
+Target: 80.79.4.32
+Port: 53
+Time: 240
+
+UserID: 5016809825 | Time: 2024-05-30 02:11:12.963260 | Command: /bgmi | Target: 20.198.72.188 | Port: 17983 | Time: 160
+UserID: 5016809825 | Time: 2024-05-30 02:11:50.235270 | Command: /bgmi | Target: 20.198.72.188 | Port: 17983 | Time: 160
+Username: @Prashunkashyap1
+Target: 20.198.72.188
+Port: 17983
+Time: 160
+
+UserID: 5016809825 | Time: 2024-05-30 02:18:43.082655 | Command: /bgmi | Target: 20.235.54.58 | Port: 24221 | Time: 100
+Username: @Prashunkashyap1
+Target: 20.235.54.58
+Port: 24221
+Time: 100
+
+UserID: 5016809825 | Time: 2024-05-30 02:28:50.114529 | Command: /bgmi | Target: 20.204.190.221 | Port: 10307 | Time: 240
+Username: @Prashunkashyap1
+Target: 20.204.190.221
+Port: 10307
+Time: 240
+
+UserID: 5154571248 | Time: 2024-05-30 05:45:42.857854 | Command: /bgmi | Target: 104.211.240.110 | Port: 11366 | Time: 100
+Username: @mehra_1334
+Target: 104.211.240.110
+Port: 11366
+Time: 100
+
